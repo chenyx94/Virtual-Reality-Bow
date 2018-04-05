@@ -1,3 +1,3 @@
-#VR project using SteamVR
+# VR project using SteamVR
 
-##SteamVR API, bow part
+## SteamVR API, bow part
